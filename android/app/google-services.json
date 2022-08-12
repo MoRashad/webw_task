@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "796889680747",
+    "project_id": "webwtask",
+    "storage_bucket": "webwtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796889680747:android:6c27e3f082387642d9da2e",
+        "android_client_info": {
+          "package_name": "com.example.webw_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796889680747-jqbbahr3loith00s08bjbnaphb9vm6bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe5TEc24Rr26shPtOf2tvG6Zg5l5GadK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796889680747-jqbbahr3loith00s08bjbnaphb9vm6bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
